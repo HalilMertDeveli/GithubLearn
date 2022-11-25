@@ -1,1 +1,3 @@
 Merhaba Dünya 	
+it is the second commit while we create new branch 
+we are in another branch and we wrote something
